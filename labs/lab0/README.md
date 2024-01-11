@@ -11,7 +11,7 @@ This lab is covered in Lecture 2 with preparation homework in Lecture 1. In Part
 
 ## Report 
 
-Your need to create a sub-folder `labs/lab0` with a README.md file to write the report in Markdown format, and generate the report to PDF using the `pandoc` application. Your report should follow the template provided in Lecture 2 ([https://github.com/phungph-uc/waph/README-template.md](https://github.com/phungph-uc/waph/README-template.md)) which should include the course name and instructor, your name and email together with your headshot (150x150 pixels), and the the following sub-sections:
+Your need to create a sub-folder `labs/lab0` with a README.md file to write the report in Markdown format, and generate the report to PDF using the `pandoc` application. Your report should follow the template provided in Lecture 2 ([[https://github.com/phungph-uc/waph/README-template.md]([https://github.com/phungph-uc/waph/blob/main/README-template.md](https://github.com/phungph-uc/waph/blob/main/README-template.md))](https://github.com/phungph-uc/waph/README-template.md)) which should include the course name and instructor, your name and email together with your headshot (150x150 pixels), and the the following sub-sections:
 
 ## The lab's overview
 
