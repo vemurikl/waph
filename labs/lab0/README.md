@@ -17,7 +17,7 @@ Your need to create a sub-folder `labs/lab0` with a README.md file to write the 
 
 Write an overview of the lab.
 
-Also, include a direct clickable link to the lab folder on GitHub.com so that it can be viewed when grading, for example,  [https://github.com/phungph-uc/waph-phungph/tree/main/lab0](https://github.com/phungph-uc/waph-phungph/tree/main/labs/lab0).
+Also, include a direct clickable link to the lab folder on GitHub.com so that it can be viewed when grading, for example,  [https://github.com/phungph-uc/waph-phungph/tree/main/labs/lab0](https://github.com/phungph-uc/waph-phungph/tree/main/labs/lab0).
 
 
 ## Part I - Ubuntu Virtual Machine & Software Installation
