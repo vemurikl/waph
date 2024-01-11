@@ -11,13 +11,13 @@ This lab is covered in Lecture 2 with preparation homework in Lecture 1. In Part
 
 ## Report 
 
-Your need to create a sub-folder `labs/lab0` with a README.md file to write the report in Markdown format, and generate the report to PDF using the `pandoc` application. Your report should follow the template provided in Lecture 2 ([[https://github.com/phungph-uc/waph/README-template.md]([https://github.com/phungph-uc/waph/blob/main/README-template.md](https://github.com/phungph-uc/waph/blob/main/README-template.md))](https://github.com/phungph-uc/waph/README-template.md)) which should include the course name and instructor, your name and email together with your headshot (150x150 pixels), and the the following sub-sections:
+Your need to create a sub-folder `labs/lab0` with a README.md file to write the report in Markdown format, and generate the report to PDF using the `pandoc` application. Your report should follow the template provided in Lecture 2 ([https://github.com/phungph-uc/waph/blob/main/README-template.md](https://github.com/phungph-uc/waph/blob/main/README-template.md)) which should include the course name and instructor, your name and email together with your headshot (150x150 pixels), and the the following sub-sections:
 
 ## The lab's overview
 
 Write an overview of the lab.
 
-Also, include a direct clickable link to the lab folder on GitHub.com so that it can be viewed when grading, for example,  [https://github.com/phungph-uc/waph-phungph/tree/main/lab0](https://github.com/phungph-uc/waph-phungph/tree/main/lab0).
+Also, include a direct clickable link to the lab folder on GitHub.com so that it can be viewed when grading, for example,  [https://github.com/phungph-uc/waph-phungph/tree/main/lab0](https://github.com/phungph-uc/waph-phungph/tree/main/labs/lab0).
 
 
 ## Part I - Ubuntu Virtual Machine & Software Installation
