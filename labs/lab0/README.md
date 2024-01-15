@@ -44,3 +44,10 @@ Describe key steps to create your private repository on [GitHub.com](https://git
 Summarize hands-on exercises, such as generating SSH keys, and adding the public key to your GitHub account, cloning your remote repository into your VM, and editing the README.md following the provided template with my headshot.
 
 Include a **screenshot** to illustrate that you committed the changes from your VM to your remote repository.
+
+## Submission
+
+Use the `pandoc` tool to generate the PDF report for submission from the `README.md` file, make sure that the report and contents are rendered properly.
+
+The PDF file should be named `your-username-waph-lab0.pdf`, e.g., `phungph-waph-lab0.pdf` 
+
