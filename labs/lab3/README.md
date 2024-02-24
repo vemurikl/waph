@@ -26,7 +26,7 @@ _This sub-task was covered in Lecture 10; students should refer to the slides fo
 
 #### Create a new table `Users` and insert data into the table (7.5 pts)
 
-**Report the outcome and grades:** _a brief summary of the step; include the content of the `database-data.sql` file, and ensure that the file is in your repository (2.5pts); the passwords are hashed (2.5pts); a screenshot demonstrating that you logged in a non-root data account to MySQL server and displayed the content of the table `users` (2.5 pts).__
+**Report the outcome and grades:** _a brief summary of the step; include the content of the `database-data.sql` file, and ensure that the file is in your repository (2.5pts); the passwords are hashed (2.5pts); a screenshot demonstrating that you logged in a non-root data account to MySQL server and displayed the content of the table `users` (2.5 pts)._
 
 ### b. A Simple (Insecure) Login System with PHP/MySQL (15 pts)
 
@@ -36,7 +36,7 @@ _This sub-task was covered in Lecture 10; students should refer to the slides fo
 - **Modify `index.php`**: add a `checklogin_mysql` function in `index.php` for database programming authentication following the instructions in the lecture.
 - **Deployment and Testing**: Deploy `form.php` and the modified `index.php`, then test the login functionality.
 
-**Report the outcome and grades:** _a brief summary of the step; include the content of the new code, and ensure that the PHP files are in your repository (10pts); a screenshot demonstrating that a valid username/password can log in to the system (5 pts).__
+**Report the outcome and grades:** _a brief summary of the step; include the content of the new code, and ensure that the PHP files are in your repository (10pts); a screenshot demonstrating that a valid username/password can log in to the system (5 pts)._
 
 
 ### c. Performing XSS and SQL Injection Attacks (10 pts)
@@ -60,7 +60,7 @@ _This sub-task was covered in Lecture 14; students should refer to the slides fo
 
 Follow the instructions to revise the code with a prepared statement. 
 
-**Report the outcome and grades:** _a brief summary of the step; include the content/snippet of the new code, and ensure that the new PHP file is in your repository (5pts); a screenshot with the payload in the browser demonstrating that the same SQL Injection attack in (c) is failed with this new implementation (2.5 pts).__
+**Report the outcome and grades:** _a brief summary of the step; include the content/snippet of the new code, and ensure that the new PHP file is in your repository (5pts); a screenshot with the payload in the browser demonstrating that the same SQL Injection attack in (c) is failed with this new implementation (2.5 pts)._
 
 #### Security Analysis (7.5 pts)
 
