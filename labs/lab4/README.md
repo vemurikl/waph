@@ -79,7 +79,7 @@ By completing this lab, students will gain practical experience in:
 
 You can write a report using Markdown format or any Word processor, i.e., you do not have to use Markdown. **Please note that demo screenshots must include your virtual machine name or your name with proper captions and be visible, i.e., in high resolution, not too blurry or with much blank space, for grading**. 
 
-Your report should follow the template provided in Lecture 2 ([https://github.com/phungph-uc/waph/blob/main/README-template.md](https://github.com/phungph-uc/waph/blob/main/README-template.md)) which should include the course name and instructor, your name and email together with your headshot (150x150 pixels), and sub-sections of the assignment's overview with the URL to the lab's folder in your repository, and each task and sub-task. **To get full grades for each sub-task, briefly describe how you completed it and your understanding of the outcome.**
+Your report should follow the template provided in Lecture 2 ([https://github.com/phungph-uc/waph/blob/main/README-template.md](https://github.com/phungph-uc/waph/blob/main/README-template.md)) which should include the course name and instructor, your name and email together with your headshot (150x150 pixels), and sub-sections of the assignment's overview with the URL to the lab's folder in your repository, and each task and sub-task. **To get full grades for each sub-task, briefly describe how you completed it and your understanding of the outcome, and the coresponding code is in your repository.**
 
 ## Submission
 
